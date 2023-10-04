@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943907551785",
+    "project_id": "thehighertaste-8eb2d",
+    "storage_bucket": "thehighertaste-8eb2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943907551785:android:93fb08713f075fe7b83a38",
+        "android_client_info": {
+          "package_name": "com.example.thehighertaste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF0dpupqAxp9s5jomxGZ3SwhMmgkZPN6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
